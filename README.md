@@ -10,6 +10,3 @@ Due to the large number of bird species(we've taken 25 Indian species in our dat
 
 The model may use the pre-trained weights and architecture of the ResNet50V2 model and fine-tune them to perform well on the particular bird classification job by fine-tuning a pre-trained ResNet50V2 model on a dataset for bird classification.
 Instead of creating new CNN from start, we Will be using **Microsoft's ResNet50V2** to fine-tune it according to our dataset.
-
-
-**Note:** We have used Google for getting help with a few pieces of code as well as ChatGPT for debugging in certain places.
